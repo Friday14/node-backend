@@ -25,3 +25,7 @@ npm run migration
 ```bash
 npm run start
 ```
+
+
+#### Link to the client part
+https://github.com/Friday14/node-backend
